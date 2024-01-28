@@ -1,1 +1,1 @@
-# GlobalGameJam2024
+index.html - open with live server
